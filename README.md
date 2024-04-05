@@ -1,6 +1,6 @@
 # nnU-Net Workshop
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iml-dkfz/nnunet-workshop/blob/master/nnU-Net_Workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DarylWM/nnunet-workshop/blob/main/nnU-Net_Workshop.ipynb)
 
 The goal of this tutorial is to give an overview of how nnU-Net can be easily used for segmentation tasks in the biomedical domain.
 
